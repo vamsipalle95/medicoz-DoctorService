@@ -1,0 +1,10 @@
+NODE_ENV=production
+PORT = 8080
+MongoURI =  mongodb+srv://akhil:akhil%40123@cluster0.fv5p7.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+SECRET_CODE = secret
+
+USER_MAIL = akhilreddyctpl@gmail.com
+USER_PASS = gotothemail
+
+
